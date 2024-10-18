@@ -1,2 +1,2 @@
-# smptocil
-smptocil
+[smptocil](https://smptocil.pages.dev)
+Fork the [repository](https://github.com/lapelive) on GitHub.
