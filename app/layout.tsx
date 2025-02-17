@@ -14,7 +14,7 @@ export const metadata: Metadata = {
         canonical: `/`,
     },
     openGraph: {
-        title: `${SITENAME} - Video Bokep Indo Jepang Barat Viral Terbaru`,
+        title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
         description: `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
         url: `/`,
         type: `website`,
@@ -44,7 +44,7 @@ export default function RootLayout({
             "name":"admin",
             "url":"https://smptocil.pages.dev"
             },
-            "foundingDate":"2024-10-17"
+            "foundingDate":"2024-06-10"
         }
         const jsonLd2 = {
             "@context": "https://schema.org",
